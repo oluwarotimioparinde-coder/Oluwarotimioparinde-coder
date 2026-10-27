@@ -26,5 +26,5 @@ Below are the entry-level starter kits available for purchase/licensing. Click t
 
 ## 📬 Contact & Commercial Licensing
 Interested in a custom data script or full commercial rights to my code repositories? 
-* **Email:** your.email@example.com
+* **Email:** oluwarotimioparinde@gmail.com
 * **Digital Storefront:** [Your Gumroad/LemonSqueezy Link]
