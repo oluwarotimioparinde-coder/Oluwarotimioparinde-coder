@@ -20,10 +20,9 @@ Below are the entry-level starter kits available for purchase/licensing. Click t
 * **Environments:** JupyterLite, VS Code, GitHub Workspaces
 
 <!-- Replace YOUR_LEETCODE_USERNAME below with your actual LeetCode handle -->
-[![LeetCode Profile](https://shields.io)](https://leetcode.com)
+[![LeetCode Profile](https://shields.io)](https://leetcode.com/u/oluwarotimioparinde-coder)
 
 ---
-
 ## 📬 Contact & Commercial Licensing
 Interested in a custom data script or full commercial rights to my code repositories? 
 * **Email:** oluwarotimioparinde@gmail.com
